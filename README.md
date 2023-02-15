@@ -90,4 +90,4 @@ Running `man ls` will give you a lengthy description of how the command works an
 
 ## Conclusion
 
-Follow on to the next chapter to learn more essential *Linux* commands/programs, part of what is known as the **GNU Coreutils**.
+Follow on to the next chapter to learn more essential *Linux* commands/programs, part of what is known as the **GNU Coreutils**. 
