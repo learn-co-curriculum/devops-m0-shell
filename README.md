@@ -34,6 +34,8 @@ Let's break it down:
 
 For the sake of brevity, we will be simplifying the code examples to not show the `name@name:~$` and instead just the `$` part.
 
+This means that when you try running the commands shown here, you should ignore the `$`; it is only there to show when something is being executed, and not something like the output of the command.
+
 ## Your first command
 
 **Commands** are *programs* that you can run to perform various tasks. For example, the `ls` command allows you to list the files and folders in a directory. `ls` (and most commands that come preinstalled on your computer) is a program (short for *list*) stored in the `/bin/` folder.
